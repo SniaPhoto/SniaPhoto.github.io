@@ -54,7 +54,6 @@ body {
 }
 
 .heading_container h2::before {
-  content: "";
   position: absolute;
   width: 35px;
   height: 26px;
@@ -734,7 +733,7 @@ a:focus {
 }
 
 .info_section .info_social {
-  padding-top: 35px;
+  padding-top: 25px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -755,7 +754,7 @@ a:focus {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  margin: 25px auto;
+  margin: 0px auto;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -785,7 +784,7 @@ a:focus {
   margin: auto;
   text-align: center;
   padding: 20px 0;
-  padding-bottom: 50px;
+  padding-bottom: 30px;
   width: 55%;
 }
 
